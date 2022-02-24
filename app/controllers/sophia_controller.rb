@@ -1,0 +1,2 @@
+class SophiaController < ApplicationController
+end

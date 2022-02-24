@@ -1,0 +1,2 @@
+class VeniceController < ApplicationController
+end
